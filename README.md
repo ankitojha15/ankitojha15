@@ -6,4 +6,5 @@ Here are some ideas to get you started:
 - I'm currently learning Data Analysis
 - I'm also learning LLM's
 - Soon i'll be uploading my achievments...
+- I can be connected via ankitojha2004@gmail.com
 
