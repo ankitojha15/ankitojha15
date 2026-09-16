@@ -22,7 +22,7 @@
 
 - 🧠 Expertise: **RAG, AI Agents, LLM Orchestration, Vector Search, FastAPI Deployment**
 - 🛠️ Building with: `Python`, `LangChain`, `LangGraph`, `LangSmith`, `FastAPI`, `Docker`, `Redis`
-- 📈 Background: **Data Science | ML | LLMs**
+- 📈 Background: **Data Science | LLMs**
 - 📫 Reach me: **ankitojha2004@gmail.com**
 - ⚡ Fun fact: I turn YouTube videos, docs & SQL data into chatbots
 
@@ -78,6 +78,6 @@
 
 ### 🤝 Let's Connect
 - 📧 Email: ankitojha2004@gmail.com
-- 💼 Open for: AI Engineer Intern / Freelance RAG Projects / Collaborations
+- 💼 Open for: AI Engineer Role
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
