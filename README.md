@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header" width="100%"/>
 
-<h1 align="center">Hi there 👋, I'm Ankit Ojha</h1>
+<h1 align="center">Hi there 👋, I'm Ankit Kumar Ojha</h1>
 <h3 align="center">AI Engineer | LLMs Enthusiast</h3>
 
 <p align="center">
