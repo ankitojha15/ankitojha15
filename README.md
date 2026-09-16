@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header" width="100%"/>
 
 <h1 align="center">Hi there 👋, I'm Ankit Ojha</h1>
-<h3 align="center">AI Engineer | Data Science | ML | LLMs Enthusiast</h3>
+<h3 align="center">AI Engineer | LLMs Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Building+RAG+%2B+Agents+%2B+FastAPI+Apps;LangChain+%7C+LangGraph+%7C+LangSmith+%7C+Docker;Python+%7C+FastAPI+%7C+Redis+%7C+SQL" alt="Typing SVG" />
