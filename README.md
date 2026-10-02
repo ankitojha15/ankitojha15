@@ -10,8 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitojha15&color=58A6FF&style=flat" alt="profile views" />
   <a href="mailto:ankitojha2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/ankitojha15](https://www.linkedin.com/in/ankit-kumar-ojha-02a937242/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ankitojha15"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="(https://www.linkedin.com/in/ankit-kumar-ojha-02a937242/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
