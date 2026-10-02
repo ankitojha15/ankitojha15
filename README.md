@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitojha15&color=58A6FF&style=flat" alt="profile views" />
   <a href="mailto:ankitojha2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="(https://www.linkedin.com/in/ankit-kumar-ojha-02a937242/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ankit-kumar-ojha-02a937242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 > AI Engineer focused on **Production-grade GenAI/AI-agents** — not just notebooks.
 
 - 🧠 Expertise: **RAG, AI Agents, LLM Orchestration, Vector Search, FastAPI Deployment**
-- 🛠️ Building with: `Python`, `LangChain`, `LangGraph`, `LangSmith`, `FastAPI`, `Docker`, `Redis`
+- 🛠️ Building with: `Python`, `LangChain`, `LangGraph`, `LangSmith`, `FastAPI`, `MCP`, `Docker`, `Redis`
 - 📈 Background: **Data Science | LLMs**
 - 🌐 Portfolio: **[ankitojha15.github.io/PortFolio](https://ankitojha15.github.io/PortFolio/)** — live projects, demos & case studies
 - 📫 Reach me: **[ankitojha2004@gmail.com](mailto:ankitojha2004@gmail.com)**
@@ -37,7 +37,7 @@
 **Languages, Frameworks & Tools:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,sqlite,redis,docker,git,github,postman,sklearn" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mysql,sqlite,redis,docker,git,github,postman,sklearn" />
 </p>
 
 > `py` = Python, `postgres/mysql/sqlite` = SQL, `postman` = REST API, `sklearn` = scikit-learn
@@ -48,7 +48,8 @@
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangSmith-FFA000?style=for-the-badge&logo=langchain&logoColor=black" />
-<img src="https://img.shields.io/badge/LLM_Inference-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
@@ -57,7 +58,6 @@
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
