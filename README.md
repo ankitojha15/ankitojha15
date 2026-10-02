@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitojha15&color=58A6FF&style=flat" alt="profile views" />
   <a href="mailto:ankitojha2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ankitojha15"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/ankitojha15](https://www.linkedin.com/in/ankit-kumar-ojha-02a937242/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ankitojha15"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
@@ -29,7 +29,7 @@
 - 📈 Background: **Data Science | LLMs**
 - 🌐 Portfolio: **[ankitojha15.github.io/PortFolio](https://ankitojha15.github.io/PortFolio/)** — live projects, demos & case studies
 - 📫 Reach me: **[ankitojha2004@gmail.com](mailto:ankitojha2004@gmail.com)**
-- ⚡ Fun fact: I turn YouTube videos, docs & SQL data into chatbots
+- ⚡ Fun fact: I turn messy docs, stuck orders & wild SQL into calm chatbots.
 
 ---
 
