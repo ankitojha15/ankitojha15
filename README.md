@@ -77,7 +77,8 @@
 ---
 
 ### 🤝 Let's Connect
+
 - 📧 Email: ankitojha2004@gmail.com
-- 💼 Open for: AI Engineer Role
+- 💼 Open for: AI Engineer Roles
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
